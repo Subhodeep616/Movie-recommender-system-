@@ -1,2 +1,2 @@
-# Movie-recommnder-system-
-Movie recommnder system using python
+# Movie-recommender-system-
+Movie recommender system using python
